@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Dogs</title>
+    </head>
+
+    <body>
+        <h1>All About Dogs</h1>
+        <img alt="Photo of Dog" src="https://static.vecteezy.com/system/resources/previews/005/857/332/non_2x/funny-portrait-of-cute-corgi-dog-outdoors-free-photo.jpg">
+        <br>
+        <a href="https://en.wikipedia.org/wiki/Dog">Learn more about dogs</a>
+
+        <h2>Most Popular Dog Breeds</h2>
+        <ul>
+            <li>Labrador Retriever</li>
+            <li>German Shepherd</li>
+            <li>Golden Retriever</li>
+            <li>Bulldog</li>
+            <li>Poodle</li>
+        </ul>
+        <h2>Fun Facts About Dogs</h2>
+        <ol>
+            <li>Dogs have been domesticated for over 15,000 years.</li>
+            <li>There are over 340 different dog breeds worldwide.</li>
+            <li>Dogs have an extraordinary sense of smell, which is thousands of times more sensitive than humans.</li>
+            <li>Dogs can understand human emotions and often respond to their owners' feelings.</li>
+            <li>The Basenji dog is known as the "barkless dog" because it makes a unique yodel-like sound instead of barking.</li>
+        </ol>
+        <a href="Cats">Page2</a>
+    </body>
+</html>
